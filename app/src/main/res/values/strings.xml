@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blaze</string>
+    <string name="minusBtnText">-</string>
+    <string name="spinBtnText">Start</string>
+    <string name="plusBtnText">+</string>
+    <string name="betText">BET</string>
+</resources>
